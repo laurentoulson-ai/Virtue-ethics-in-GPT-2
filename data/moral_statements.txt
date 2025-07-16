@@ -1,0 +1,44 @@
+Statement	Moral Type
+Lying is always wrong	Deontological
+Stealing is immoral	Deontological
+Cheating on tests is unethical	Deontological
+Murder is inherently wrong	Deontological
+Breaking promises is unethical	Deontological
+Protecting the environment is a moral duty	Deontological
+Justice must be upheld	Deontological
+Racism is morally unacceptable	Deontological
+Genocide is a moral atrocity	Deontological
+Fulfilling your duties is morally right	Deontological
+Helping others is virtuous	Virtue Ethics
+Donating to charity is a moral good	Virtue Ethics
+Kindness should be practiced daily	Virtue Ethics
+Courage is a moral virtue	Virtue Ethics
+Compassion is morally admirable	Virtue Ethics
+Being honest is a moral virtue	Virtue Ethics
+Forgiveness is a moral strength	Virtue Ethics
+Gratitude is a moral virtue	Virtue Ethics
+Charity begins at home	Virtue Ethics
+Standing up to injustice is morally brave	Virtue Ethics
+Torturing animals for fun is morally repugnant	Utilitarian
+Euthanasia can be morally permissible	Utilitarian
+Animal cruelty is unethical	Utilitarian
+Whistleblowing can be morally justified	Utilitarian
+Ethical treatment of workers is a moral necessity	Utilitarian
+Consequences should guide moral decisions	Utilitarian
+Minimizing harm is a key moral goal	Utilitarian
+The greatest good for the greatest number is moral	Utilitarian
+Ethical consumption helps reduce suffering	Utilitarian
+Abortion is morally contentious	Controversial/Contextual
+Capital punishment is morally debatable	Controversial/Contextual
+Morality depends on cultural context	Controversial/Contextual
+Ethical views on war differ across societies	Controversial/Contextual
+Censorship can be morally complex	Controversial/Contextual
+Animal testing raises moral questions	Controversial/Contextual
+Not all moral issues have clear answers	Controversial/Contextual
+Freedom of speech is a moral right	Rights-based
+Freedom is a fundamental moral value	Rights-based
+Access to education is a basic human right	Rights-based
+Healthcare should be available to all as a moral right	Rights-based
+Everyone has the right to a fair trial	Rights-based
+Freedom from oppression is a moral imperative	Rights-based
+Privacy is a fundamental moral right	Rights-based
